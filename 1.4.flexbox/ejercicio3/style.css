@@ -1,0 +1,25 @@
+.container{
+    background-color: red;
+    
+}
+
+.list{
+    height: 100px;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    border: 2px solid black;
+}
+
+
+.item:nth-child(1){
+    margin-left: 20px;
+}
+
+.item:nth-child(5){
+    margin-right: 20px;
+}
+

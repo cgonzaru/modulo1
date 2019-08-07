@@ -1,0 +1,18 @@
+/* al ser mayor el tamaño de la imagen que el div (se le tiene que restar el borde y el padding al ser de tipo border-box) la imagen se sale del div */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    padding: 10px;
+    border: solid black 5px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto; 
+    /* margin: auto; */
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}

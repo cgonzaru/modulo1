@@ -1,0 +1,4 @@
+1. porque aplica la regla más específica: dentro de la lista "ul.news" se especifica el elemento "li.news__item" y especifica el elemento "a.news__item-link" que tiene en 
+sus propiedades el color verde.
+
+3. se quitan los estilos ya que hace referencia a ul. se quedan los enlaces de color rojo porque está definido en el elemento a

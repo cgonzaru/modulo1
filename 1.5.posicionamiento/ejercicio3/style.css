@@ -1,0 +1,10 @@
+.cabecera{
+    background-color: blueviolet;
+    position: fixed;
+    height: 100px;
+}
+
+.contenedor{
+    position: absolute;
+    top:100px;
+}

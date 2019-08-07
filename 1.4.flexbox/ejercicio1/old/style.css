@@ -1,0 +1,15 @@
+.flex-container{
+    height: 500px;
+    width: 500px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color:pink;
+
+    display: flex;
+    flex-direction: row;/* column | colum-reverse | row | row-reverse */
+}
+
+.flex-item {
+    border: solid 2px black;
+}
